@@ -122,7 +122,7 @@ redirection" width="370"></td>
 
 <div align="center">
   
-<img src="https://github.com/LeHiHo/FastMind/assets/37584686/1198325a-aefd-4749-a578-2f75e2ee2f18" />
+<img src="https://github.com/LeHiHo/FastMind/assets/93272421/d12f2a2c-123a-410d-bcca-253e98994453" />
 
 
 </div>
